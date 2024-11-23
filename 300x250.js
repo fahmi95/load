@@ -14,4 +14,5 @@ document.body.appendChild(script1);
 const script2 = document.createElement('script');
 script2.type = 'text/javascript';
 script2.src = '//trashyepochabsorbing.com/391a7c454c7632fa62a39c1549db1f6d/invoke.js';
+script.async = true;
 document.body.appendChild(script2);
